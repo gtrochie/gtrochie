@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Rotshidzwa! 👋 I'm a Software Development student at WeThinkCode_ with a deep focus on Blockchain Security and Smart Contract Development.
 
 <!--
 **gtrochie/gtrochie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
