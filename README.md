@@ -1,30 +1,23 @@
-# Hi there, I'm Rotshidzwa 👋 🇿🇦
+# Hi there, I'm Rotshidzwa Nematswerani
 
-### 🚀 Software Development Student & Aspiring Blockchain Security Auditor
-I am a first-year student at **WeThinkCode_**, passionate about building secure, decentralized systems. I'm currently bridging the gap between traditional software engineering (Java/Python) and the world of Ethereum and Smart Contract Security.
+### Software Development Student & Aspiring Backend/Cloud Engineer
 
----
-
-### 🛠 My Stack & Tools
-
-- **Languages:** ![Java] [Python] [Solidity]
-- **Blockchain Toolkit:** Foundry, Remix, Chainlink Oracles
-- **Other Tech:** Git, Linux (Ubuntu), Bash, Google Calendar API
+I'm a Software Development student at **WeThinkCode_**, currently pivoting toward **backend engineering and cloud computing**, with **Java/Spring Boot** as my primary stack. I also work as a **peer tutor** at WeThinkCode_, helping others with Python and Java.
 
 ---
 
-### 🏗 What I'm Working On
+###  My Stack & Tools
 
-- 🎓 **Academic:** Collaborating on a **Coding Clinic Booking System** using Python and Google APIs.
-- ⛓️ **Web3:** Completing the **Cyfrin Updraft** curriculum and preparing for the **SSCP Certification**.
-- 🤖 **Logic:** Refining my **Mars Rover Simulation** to master Object-Oriented Design patterns.
-
----
-
-
-### 📫 Connect with Me
-
-- 💼 [LinkedIn](www.linkedin.com/in/rotshidzwa-nematswerani-126699386) 
+- **Languages:** Java, Python
+- **Backend:** Spring Boot, REST APIs
+- **Cloud:** AWS (Cloud Practitioner cert in progress), 
+- **Other:** Git/GitHub, GitLab, Docker, CI/CD
 
 ---
-*"The best way to predict the future is to audit its smart contracts."*
+
+###  What I'm Working On
+
+-  **Cloud:** Working toward the **AWS Certified Cloud Practitioner** certification, with Docker, CI/CD, and IaC as electives at WeThinkCode_.
+-  **Backend:** Deepening my Java/Spring Boot fluency — Collections, Concurrency, Exception Handling, Servlets, and Spring Core — ahead of a live deployed portfolio project.
+
+-  **Hackathons:** Top 50 at Momentum and MonkeyRiver AI Hackathon 2026 (backend/gateway lead, Team ByteBinders) and Top 5 at SMU Health Hackathon 2026.
